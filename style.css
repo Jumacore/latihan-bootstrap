@@ -1,0 +1,22 @@
+body {
+  background-image: url(galeri/img/hima1.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(138, 243, 255);
+}
+
+#pendaftaran {
+  background-color: #8af3ff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+section .jumbotron {
+  height: 200px;
+  background: #000;
+}
